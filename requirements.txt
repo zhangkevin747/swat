@@ -1,8 +1,11 @@
 pandas
 numpy
+pillow
 torch
 transformers
 peft 
 huggingface
 bitsandbytes
 datasets
+jupyter 
+ipywidgets
