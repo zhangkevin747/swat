@@ -9,3 +9,4 @@ bitsandbytes
 datasets
 jupyter 
 ipywidgets
+python-dotenv
