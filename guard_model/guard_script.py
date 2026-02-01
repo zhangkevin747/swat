@@ -12,7 +12,7 @@ SCRIPT_ROOT = Path(__file__).resolve().parent
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="SWAT Guard Model Evaluation Pipeline: " +
+        description="AUDIT Guard Model Evaluation Pipeline: " +
         "Batch-generates responses and classifies them."
     )
 
