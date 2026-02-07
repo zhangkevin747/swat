@@ -6,7 +6,7 @@
 Hugging Face hosts 2.5M+ models, yet security infrastructure only detects malicious code, not malicious weights. AUDIT closes this gap by detecting models that have been covertly fine-tuned to remove safety alignment or insert backdoors.
 
 ```mermaid
-graph LR;
+graph TD;
     %% Define Nodes
     A([Hugging Face Repo]) --> B{<b>Layer 1: Static</b>}
     
